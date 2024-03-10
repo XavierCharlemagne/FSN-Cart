@@ -1,6 +1,4 @@
-Assumptions made:
-    Using the Jonesboro tax rate of 8.5%
-    Only apply the buy one get one half price deal once
+Assumptions made: Using the Jonesboro tax rate of 8.5%, Only apply the buy one get one half price deal once
 
 I split the shopping cart and flower classes between 4 files.
 Most of the heavy processing is done in Cart.cpp. The file contains all the methods necessary for 
